@@ -467,7 +467,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "nodule-breakout-jan24-gerbers",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../nodular-base/3d/nodule.step",
